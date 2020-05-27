@@ -8,6 +8,7 @@
 6. Setup monitoring using Prometheus & Grafana
 7. Setup Logging using ELK (Stateful Sets)
 8. Use Terraform to create the GKE cluster
+9. Set up CI/CD pipeline
 
 
 ## Few learning / exploring places. For future reference
