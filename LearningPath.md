@@ -1,6 +1,6 @@
 # Learning path for K8s
 
-1. Docker setup for Java & UI app and push to Docker hub
+1. Docker setup for Java & UI app and push to Docker hub - Done
 2. Create Deployment, Service, Secret and run Backend & UI apps in minikube
 3. Setup Google Cloud free tier account
 4. Create GKE cluster and run the application in Google Cloud using Helm charts
