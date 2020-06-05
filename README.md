@@ -14,5 +14,5 @@ Simple Front and backend appliction to get hands on experiance with kubernetes
 
 ### To run the build images on custom network
 - [Create custom network](https://docs.docker.com/network/network-tutorial-standalone/)
-- run the image using ``` docker run -d -p <p>:<p> --network <customNetwork>  <Image>
+- run the image using ``` docker run -d -p <p>:<p> --network <customNetwork>  <Image>```
 
