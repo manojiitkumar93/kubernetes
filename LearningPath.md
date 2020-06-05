@@ -4,7 +4,9 @@
 2. Create Deployment, Service, Secret and run Backend & UI apps in minikube
 3. Setup AWS free tier account
 4. Setup Circle CI and enable Continuous Integration & Deployment
-
+   1. Setup workflow which get triggers for each commit
+   2. Run Unit test for both UI & Backend
+   3. If Unit test passes, build docker image and push it to docker hub (remove the automated builds from docker hub)
 ---
 
 4. Create GKE cluster and run the application in Google Cloud using Helm charts
