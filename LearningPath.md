@@ -2,7 +2,11 @@
 
 1. Docker setup for Java & UI app and push to Docker hub - Done
 2. Create Deployment, Service, Secret and run Backend & UI apps in minikube
-3. Setup Google Cloud free tier account
+3. Setup AWS free tier account
+4. Setup Circle CI and enable Continuous Integration & Deployment
+
+---
+
 4. Create GKE cluster and run the application in Google Cloud using Helm charts
 5. Setup Helm chart repository using Google storage
 6. Setup monitoring using Prometheus & Grafana
